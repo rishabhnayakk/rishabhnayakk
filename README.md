@@ -1,35 +1,35 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hey, I'm Rishabh Nayak 👋</h1>
+<h1 align="center">Hey, I'm Rishabh Nayak </h1>
 <h3 align="center">Full-Stack Developer • AI Enthusiast • CSE Student</h3>
 
 <p align="center">
-  Building practical software, exploring AI, and turning ideas into working products.
+ Building practical software, exploring AI, and turning ideas into working products.
 </p>
 
 <p align="center">
-  <a href="https://github.com/rishabhnayakk">
-    <img src="https://img.shields.io/badge/GitHub-rishabhnayakk-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-6C63FF?style=for-the-badge" alt="Current focus" />
-  <img src="https://img.shields.io/badge/DSA-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA with C++" />
+ <a href="https://github.com/rishabhnayakk">
+ <img src="https://img.shields.io/badge/GitHub-rishabhnayakk-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+ </a>
+ <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-6C63FF?style=for-the-badge" alt="Current focus" />
+ <img src="https://img.shields.io/badge/DSA-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA with C++" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Science & Engineering student at **Lovely Professional University**, interested in building useful applications at the intersection of software engineering, AI, and data.
 
-- 🔭 Building full-stack applications and experimenting with AI-powered products.
-- 🤖 Interested in LLM integration, AI agents, and intelligent decision-support systems.
-- 📈 Exploring financial technology, market analysis, and data-driven dashboards.
-- 🧠 Strengthening problem-solving skills through DSA and regular coding practice.
-- 🧩 Enjoy working across the stack: from database design and APIs to frontend experiences.
-- 🌱 Always learning by building, testing, debugging, and improving.
+- Building full-stack applications and experimenting with AI-powered products.
+- Interested in LLM integration, AI agents, and intelligent decision-support systems.
+- Exploring financial technology, market analysis, and data-driven dashboards.
+- Strengthening problem-solving skills through DSA and regular coding practice.
+- Enjoy working across the stack: from database design and APIs to frontend experiences.
+- Always learning by building, testing, debugging, and improving.
 
 ---
 
-## 🧰 Technologies & Tools
+## Technologies & Tools
 
 **Languages**
 
@@ -68,7 +68,7 @@ I'm a Computer Science & Engineering student at **Lovely Professional University
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [AEVON — Academic Intelligence Platform](https://github.com/rishabhnayakk/AEVON)
 A full-stack EdTech platform designed to help students, teachers, and administrators make better use of academic data.
@@ -104,7 +104,7 @@ My ongoing C++ problem-solving log as I strengthen DSA fundamentals and analytic
 
 ---
 
-## 🧠 What I'm Exploring
+## What I'm Exploring
 
 - **AI-powered applications:** LLM integration, AI agents, and context-aware assistants.
 - **Financial technology:** Market trend analysis, portfolio analytics, and scenario simulation.
@@ -113,35 +113,35 @@ My ongoing C++ problem-solving log as I strengthen DSA fundamentals and analytic
 
 ---
 
-## 📚 Computer Science Foundations
+## Computer Science Foundations
 
 Data Structures & Algorithms · Object-Oriented Programming · DBMS & SQL · REST APIs · CRUD Operations · Software Development Life Cycle · System Requirements & Design · Data Analysis & Visualization
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishabhnayakk&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhnayakk&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+ <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishabhnayakk&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+ <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhnayakk&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=rishabhnayakk&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+ <img width="70%" src="https://streak-stats.demolab.com?user=rishabhnayakk&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhnayakk&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhnayakk&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p>
-  <a href="https://github.com/rishabhnayakk">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
+ <a href="https://github.com/rishabhnayakk">
+ <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" />
+ </a>
 </p>
 
 I'm interested in collaborating on meaningful software projects, learning from other developers, and building things that solve real problems.
@@ -149,5 +149,5 @@ I'm interested in collaborating on meaningful software projects, learning from o
 ---
 
 <p align="center">
-  <i>"Consistency beats intensity. Keep building. Keep learning."</i>
+ <i>"Consistency beats intensity. Keep building. Keep learning."</i>
 </p>
