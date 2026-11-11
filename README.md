@@ -1,11 +1,12 @@
+
+
+<!-- PROFILE HEADER -->
+<h1 align="center">Hey, I'm Rishabh Nayak </h1>
 <p align="center">
  <a href="https://my-portfolio001-six.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-6C63FF?style=for-the-badge" alt="Visit my portfolio" />
  </a>
 </p>
-
-<!-- PROFILE HEADER -->
-<h1 align="center">Hey, I'm Rishabh Nayak </h1>
 <h3 align="center">Full-Stack Developer • AI Enthusiast • CSE Student</h3>
 
 <p align="center">
