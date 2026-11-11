@@ -129,16 +129,12 @@ Data Structures & Algorithms · Object-Oriented Programming · DBMS & SQL · RES
 ## GitHub Activity
 
 <p align="center">
- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishabhnayakk&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhnayakk&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+ <img width="49%" src="https://github-stats-extended.vercel.app/api?username=rishabhnayakk&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+ <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rishabhnayakk&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
- <img width="70%" src="https://streak-stats.demolab.com?user=rishabhnayakk&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhnayakk&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+ <a href="https://github.com/rishabhnayakk?tab=overview&from=2026-01-01&to=2026-12-31">View my GitHub contribution activity</a>
 </p>
 
 ---
